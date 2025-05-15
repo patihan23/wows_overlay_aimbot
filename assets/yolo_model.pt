@@ -1,0 +1,12 @@
+# This is a placeholder for the YOLO model file
+# In a real implementation, you would need to:
+# 1. Train a YOLO model on ship images from World of Warships
+# 2. Export the model in the correct format (.pt file)
+# 3. Place it in this location
+
+# To train a real model, you would need:
+# - Hundreds of screenshots from the game with ships
+# - Bounding box annotations for each ship
+# - Training using YOLOv5 or similar framework
+
+# The actual file would be a binary file, not a text file like this placeholder.

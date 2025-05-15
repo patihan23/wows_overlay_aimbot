@@ -1,0 +1,50 @@
+{
+  "destroyers": {
+    "shimakaze": {
+      "max_speed": 39.0,
+      "acceleration": 2.5,
+      "shell_velocity": 950
+    },
+    "gearing": {
+      "max_speed": 36.0,
+      "acceleration": 2.3,
+      "shell_velocity": 800
+    }
+  },
+  "cruisers": {
+    "des_moines": {
+      "max_speed": 33.0,
+      "acceleration": 1.8,
+      "shell_velocity": 1000
+    },
+    "moskva": {
+      "max_speed": 34.5,
+      "acceleration": 1.9,
+      "shell_velocity": 950
+    }
+  },
+  "battleships": {
+    "yamato": {
+      "max_speed": 27.0,
+      "acceleration": 1.2,
+      "shell_velocity": 880
+    },
+    "montana": {
+      "max_speed": 30.0,
+      "acceleration": 1.5,
+      "shell_velocity": 820
+    }
+  },
+  "aircraft_carriers": {
+    "hakuryu": {
+      "max_speed": 34.0,
+      "acceleration": 1.7,
+      "shell_velocity": 0
+    },
+    "midway": {
+      "max_speed": 33.0,
+      "acceleration": 1.6,
+      "shell_velocity": 0
+    }
+  }
+}
